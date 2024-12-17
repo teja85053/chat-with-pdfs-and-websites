@@ -1,5 +1,5 @@
 # I have done it in colab its working fine here is the link
-#https://colab.research.google.com/drive/1F771l1grMkqEFZ1Ad1YZTQ-_KGfsLhuD?usp=sharing
+https://colab.research.google.com/drive/1F771l1grMkqEFZ1Ad1YZTQ-_KGfsLhuD?usp=sharing
 
 # Install required libraries
 !pip install -q PyPDF2 sentence-transformers google-generativeai
