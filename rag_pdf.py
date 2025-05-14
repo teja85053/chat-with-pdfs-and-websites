@@ -12,7 +12,7 @@ from typing import List
 import google.generativeai as genai
 
 # Set up Gemini API
-genai.configure(api_key="AIzaSyBb8awMVXqbUKJMbcjd6VietECKIqebPkU")
+genai.configure(api_key="Place ur API key here")
 
 class RAGPipeline:
     def __init__(self,
